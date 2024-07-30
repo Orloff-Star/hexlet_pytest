@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./hexlet_",
+        "./hexlet_"
+    ]
+}
